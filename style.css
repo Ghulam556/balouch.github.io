@@ -1,0 +1,14 @@
+.navbar-collapse ul li a:hover{
+color: rgb(185, 231, 19);
+}
+.navbar-collapse p a{
+    border: 2px solid white;
+    border-radius: 20px;  
+}
+.col-xs-12 a:hover{
+    color: rgb(185, 231, 19);
+}
+.col-xs-12 a{
+    border: 2px solid white;
+    border-radius: 20px;
+}
